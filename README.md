@@ -11,6 +11,7 @@ I enjoy exploring technology, building practical projects, and turning ideas int
 - Studying at Sancta Maria International School
 - Building Zozimus Technologies as Co-Founder
 - DJing and producing music as [DJAviCC](https://instagram.com/djavicc)
+- Leading the [Stand Up anti-bullying campaign](https://standup-petition.vercel.app/) as a changemaker
 - Learning through hands-on projects and new challenges
 
 ## Connect With Me
