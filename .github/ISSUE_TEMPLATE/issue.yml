@@ -1,0 +1,38 @@
+name: Profile issue
+description: Report a problem or suggest an improvement to this profile.
+title: "[Issue]: "
+labels: []
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: Issue type
+      options:
+        - Broken link
+        - Content correction
+        - Improvement
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Explain what is wrong or what should change.
+      placeholder: Describe the issue and the expected result.
+    validations:
+      required: true
+
+  - type: input
+    id: section
+    attributes:
+      label: Profile section
+      description: Name the affected section or share a relevant link.
+      placeholder: What I'm Doing
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Add screenshots, links, or any other useful details.
