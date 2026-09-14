@@ -1,5 +1,10 @@
 # Hi, I'm Avi Chadda
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-avichadda.github.io-0A66C2?style=flat&logo=githubpages&logoColor=white)](https://avichadda.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Avi_Chadda-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/avichadda)
+[![Instagram](https://img.shields.io/badge/Instagram-DJAviCC-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/djavicc)
+[![Zozimus Technologies](https://img.shields.io/badge/Zozimus-Technologies-2EA44F?style=flat&logo=github&logoColor=white)](https://zozimustechnologies.github.io)
+
 I'm a student at [Sancta Maria International School, Hyderabad](https://sanctamaria.in), the Co-Founder of [Zozimus Technologies](https://zozimustechnologies.github.io), and a DJ and music producer sharing music as [DJAviCC](https://instagram.com/djavicc).
 
 Visit my portfolio at [avichadda.github.io](https://avichadda.github.io).
